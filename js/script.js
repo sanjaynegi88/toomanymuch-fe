@@ -49,7 +49,7 @@ $.scrollify({
 	   
 	   setTimeout(function () {
      panels[i].find(".animate_trigger").addClass("animated");
-}, 200);
+}, 1000);
 	    
 	
 
